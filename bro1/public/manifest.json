@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AI Coach",
+  "name": "AI 코칭 면접 보조",
   "icons": [
     {
       "src": "favicon.ico",
